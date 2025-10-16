@@ -1,0 +1,5 @@
+{
+  "name": "Copy of FBX 3D Mesh Viewer",
+  "description": "An interactive web application to upload and preview 3D models from FBX files. Users can upload a file from their local machine and view the 3D mesh with orbit controls for rotation, panning, and zooming.",
+  "requestFramePermissions": []
+}
